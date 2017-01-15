@@ -1,0 +1,3 @@
+['/Volumes/Data/yuuki/.vimrc']
+{'dein.vim': {'lazy': 0, 'name': 'dein.vim', 'rtp': '/Volumes/Data/yuuki/dotfiles/.vim/dein/repos/github.com/Shougo/dein.vim', 'repo': '/Volumes/Data/yuuki/dotfiles/.vim/dein/repos/github.com/Shougo/dein.vim/', 'normalized_name': 'dein', 'type': 'git', 'local': 1, 'merged': 0, 'sourced': 1, 'path': '/Volumes/Data/yuuki/dotfiles/.vim/dein/repos/github.com/Shougo/dein.vim'}, 'unite.vim': {'lazy': 0, 'path': '/Volumes/Data/yuuki/dotfiles/.vim/dein/repos/github.com/Shougo/unite.vim', 'repo': 'Shougo/unite.vim', 'merged': 1, 'normalized_name': 'unite', 'type': 'git', 'rtp': '/Volumes/Data/yuuki/dotfiles/.vim/dein/repos/github.com/Shougo/unite.vim', 'sourced': 1, 'name': 'unite.vim'}}
+{}

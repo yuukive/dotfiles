@@ -1,7 +1,7 @@
 # General
-alias ll='ls -al'
+alias ll='ls -la'
 alias lt='ls -lt'
-
+alias hg='history | grep '
 
 # git
 source ~/.scripts/git-completion.bash
